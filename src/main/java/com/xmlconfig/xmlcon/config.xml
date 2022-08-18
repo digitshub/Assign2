@@ -13,5 +13,8 @@
      <bean class="com.xmlconfig.xmlcon" name="s1">
      	
      	<property name="price" value="5"/>
+     	
      </bean>
+     
+     
     </beans>
